@@ -6,5 +6,6 @@
 	"hero_playstyle_control": "군중 제어",
 	"hero_playstyle_shooter": "사수",
 	"hero_playstyle_assassin": "암살자",
-	"hero_playstyle_summoner": "소환사"
+	"hero_playstyle_summoner": "소환사",
+	"hero_playstyle_healer": "치유사"
 }
