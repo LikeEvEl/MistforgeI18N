@@ -1,5 +1,6 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
 	"hero_role_dps_ranged": "원거리 공격수",
-	"hero_role_frontline": "선봉장"
+	"hero_role_frontline": "선봉장",
+	"hero_role_dps_melee": "근접 공격수"
 }
